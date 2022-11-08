@@ -22,7 +22,7 @@ class LoginScreen extends StatelessWidget {
             padding: const EdgeInsets.all(10.0),
             child: TextFormField(
               decoration: InputDecoration(
-                hintText: 'Email Address xem',
+                hintText: 'Email Address xems',
                 border: OutlineInputBorder(
                   borderRadius: BorderRadius.circular(10),
                 ),
